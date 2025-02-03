@@ -1,10 +1,10 @@
 {
-    "name": "IGisApp",
-    "version": "2025.02.03-i-gis",
-    "description": "I-GIS application based on QWC2",
-    "author": "softark",
+    "name": "QWC2App",
+    "version": "2025.01.23-master",
+    "description": "QGIS Web Client 2 application",
+    "author": "Sourcepole",
     "license": "BSD-2-Clause",
-    "repository": "git@github.com:softark/qwc2-demo-app.git",
+    "repository": "git@github.com:sourcepole/qwc2-demo-app.git",
     "private": true,
     "workspaces": [
         "qwc2"

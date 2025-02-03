@@ -7,3 +7,4 @@ themes.json
 static/assets/img/genmapthumbs/*
 static/assets/forms/autogen/*
 yarn-error.log
+.idea
